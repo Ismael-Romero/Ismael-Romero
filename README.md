@@ -10,7 +10,7 @@ I'm currently working on a personal project, -Cupcake- a suite of tools that glo
 * React JS 
 
 
-https://github-readme-stats.vercel.app/api?username=Ismael-Romero)](https://github.com/anuraghazra/github-readme-stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ismael-Romero&show_icons=true&theme=dark&locale=en&layout=compact" alt="Ismael Romero" /></p>
 
 <!--
 **Ismael-Romero/Ismael-Romero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

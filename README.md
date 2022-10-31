@@ -9,6 +9,9 @@ I'm currently working on a personal project, -Cupcake- a suite of tools that glo
 * Electron JS
 * React JS 
 
+
+https://github-readme-stats.vercel.app/api?username=Ismael-Romero)](https://github.com/anuraghazra/github-readme-stats
+
 <!--
 **Ismael-Romero/Ismael-Romero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

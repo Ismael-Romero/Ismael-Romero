@@ -1,4 +1,20 @@
 ### ¡Hi stranger! 👋
 I'm Ismael Romero, a software developer looking to change the world 🌍.
 
-I'm currently working on a personal project, -Cupcake- a suite of tools that globally includes ERP and POS systems (for now). Also, I am refactoring some other small projects to publish them later.
+
+
+</br>
+</br>
+</br>
+
+#### Certificaciones
+
+</br>
+
+<tbody>
+  <tr>
+    <td>
+      <img src="/insignia.png" width="120" height="90"/>
+    </td>
+  </tr>
+</tbody>

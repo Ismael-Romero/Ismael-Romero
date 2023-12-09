@@ -7,7 +7,8 @@ I'm Ismael Romero, a software developer looking to change the world 🌍.
 </br>
 </br>
 
-#### Certificaciones
+
+#### Certifications
 
 </br>
 
